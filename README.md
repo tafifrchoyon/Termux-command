@@ -1,0 +1,2 @@
+# Termux-command
+apt update 
